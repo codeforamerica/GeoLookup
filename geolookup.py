@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import simplejson, urllib, sys, getopt
 
 GEOCODE_BASE_URL = 'http://maps.googleapis.com/maps/api/geocode/json'
